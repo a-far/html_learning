@@ -26,9 +26,35 @@ target=""属性，控制页面的打开方式：_blank（在新的页面窗口�
                                  
                                  
                                  
-                                 
+figure标签下可以放图片，figcaption标签是对图片的说明                                 
 （图片需放在根目录下的img文件夹下）                         
 "img":image图像.影像
 "src":source来源
-width 宽
-height 高
+width   宽（单位px）
+height  高
+
+
+
+
+
+
+
+
+
+
+
+css(层叠样式表）用于设置网页中的各种标签样式【文字大小（font-size 大小`font-weight 粗细），颜色 color，行高 line-height,背景 background】
+
+
+
+
+
+
+
+属性和属性值，尽量小写。
+
+class规定元素的类名
+class 属性可以多用 class="类名" （引号里面可以填入多个class属性）
+
+
+id 属性只能单独设置 id=" "（只能填写一个，多个无效）
