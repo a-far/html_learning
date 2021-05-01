@@ -1,0 +1,127 @@
+html{
+	width: 100%;
+}
+
+.box{
+	background: url(../img/bg.jpg)  top center  no-repeat ;
+	height: 340px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	position: fixed;
+	min-width: 610px;
+}
+
+.pagenav >ul >li{
+	float: right;
+	padding-right:10px;
+}
+
+.pagenav >ul >li >a{
+	display: block;
+}
+
+.pagenav >ul >li >a:hover{
+	margin-top: 30;
+}
+
+.pagenav >ul >li span{
+	font-size: 10px;
+	line-height: 30px;
+	color: #c2c2c2;
+}
+
+.pagenav>ul{
+	padding-right: 50px;
+}
+
+.pagenav{
+	margin-left: auto;
+	margin-right: auto;
+	height: 340px;
+	width: 610px;
+	
+}
+
+.logo{
+	width: 200px;
+	height: 15px;
+	padding-top: 7px;
+	float: left;
+}
+
+.logo>figure{
+	float: left;
+	padding-left: 20px;
+}
+
+.logo>figcaption >span{
+	line-height: 3px;
+}
+
+.cn{
+	float: left;
+	width: 140px;
+	height: 35px;
+	margin-top: 100px;
+	margin-left: 40px;
+	font-size: 35px;
+	font-weight: 350;
+	text-align: center;
+}
+
+.more{
+	
+	background:rgb( 76 80  89 )
+}
+
+.content{
+	width: 610px;
+	height: 380px;
+	padding-top: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.content>figcptions{
+	float: left;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 40px;
+	
+	overflow: hidden;
+}
+
+.ones{
+	line-height: 25px;
+	padding-top: 50px;
+}
+
+.content>figures{
+	float: right;
+	margin-right: 50px;
+	padding-top: 40px;
+}
+
+.img1{
+	padding-top: 40px;
+}
+
+#footer{
+	position: relative;
+    padding: 40px 0;
+    text-align: center;
+    font: normal 12px/19px Tahoma;
+    z-index: 10;
+    background-image: url(../img/footer.jpg);
+    margin-top: -1px;
+	width: 610px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#footer>figurress>footer_logo{
+	text-align: center;
+	padding-top: 20px;
+}
+

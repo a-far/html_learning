@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;/*去除浏览器自带的间距*/
+	
+}
+
+.clears{
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	font-size: 0;
+	line-height: 0;
+}
+
+ol,ul,li{
+	list-style: none;/*去掉列表前自带的点*/
+}
+
+a{
+	text-decoration: none;/*清除文字的修饰如下划线*/
+}
+
+img{
+	border: none;/*消除图片的边框*/
+}
