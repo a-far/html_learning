@@ -7,3 +7,28 @@
  <area> 标签定义图像映射内部的区域（图像映射指的是带有可点击区域的图像）。<area> 元素始终嵌套在 <map> 标签内部。
 注释： <img> 标签中的 usemap 属性与 <map> 元素中的 name 相关联，以创建图像与映射之间的关系。
 coords规定区域的坐标。
+代码中的shape指的是点击区域的形状，coords指的应该是链接区域在图片中的坐标（像素为单位）
+ map标记符中，name属性值必须与img标记符中usemap的取值相同，但usemap属性值前面的多了一个“#”
+ 
+ 
+ 
+ 
+ ul是unordered lists的缩写 (无序列表)
+li是list item的缩写 （列表项目）
+ol是ordered lists的缩写（有序列表）
+dl是definition lists的英文缩写 (自定义列表)
+dt是definition term的缩写 (自定义列表组)
+dd是definition description的缩写（自定义列表描述）
+nl是navigation lists的英文缩写 （导航列表）
+tr是table row的缩写 （表格中的一行）
+th是table header cell的缩写 （表格中的表头）
+td是table data cell的缩写 （表格中的一个单元格）
+
+
+自定义列表不仅仅是一列项目，而是项目及其注释的组合。
+自定义列表以 <dl> 标签开始。每个自定义列表项以 <dt> 开始。每个自定义列表项的定义以 <dd> 开始。
+ 
+ 
+ 表格由 <table> 标签来定义。每个表格均有若干行（由 <tr> 标签定义），每行被分割为若干单元格（由 <td> 标签定义）。字母 td 指表格数据（table data），即数据单元格的内容。数据单元格可以包含文本、图片、列表、段落、表单、水平线、表格等等。
+ 表格的表头使用 <th> 标签进行定义。
+大多数浏览器会把表头显示为粗体居中的文本：
