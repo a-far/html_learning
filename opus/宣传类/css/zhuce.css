@@ -1,0 +1,115 @@
+.denglujiemian{
+	width: 600px;
+	background: #F8E8D0;
+	height: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 50px;
+	margin-top: 50px;
+	background: url(../img/1.jpg) repeat fixed center;
+	background-image: ;
+}
+
+.top{
+	width: 600px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ffffff;
+	float: right;
+}
+
+.wenzi{
+	padding-left: 360px;
+}
+
+.zhuce h4{
+	color: #ffffff;
+}
+			
+
+.zhuce{
+	height: 120px;
+	/* width: 400px; */
+	display: block;
+	background: #892727;
+	text-align: center;
+	line-height: 120px;
+	font-size: 32px;
+	padding-top: 50px;
+	
+}
+
+.top a{
+	color: #ff5500;
+	transition: all 0.5s;
+}
+
+a:hover{
+	color: #55aaff;
+}
+
+.line{
+	border-left: 1px solid rgb(000, 64, 53);
+	margin-left: -75px;
+	height: 50px;
+	width: 1px;
+	display: inline;
+}
+
+.wenzi p{
+	float: left;
+	margin-left: 20px;
+}
+
+.shurukuang{
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 200px;
+	/* background: #000; */
+	text-align: center;
+}
+
+.submit_tijiao{
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 100px;
+	/* background: #000; */
+	text-align: center;
+}
+
+.submit_tijiao input,
+.telephone input,
+.password input{
+	height: 40px;
+	width: 300px;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.submit{
+	width: 400px;
+	height: 40px;
+	/* background: #000000; */
+	text-align: center;
+	line-height: 40px;
+	padding-left: 100px;
+}
+
+.submit input{
+	width: 20px;
+	height: 20px;
+	line-height: 40px;
+}
+
+.fangshi{
+	width: 600px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.charu img{
+	margin: 10px;
+}
