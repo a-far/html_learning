@@ -28,6 +28,4 @@ input, button, select, textarea{
 	outline: none;
 }
 
-div{
-	display: block;
-}
+/* <div style="clear: both;"></div> 清除浮动  写在html浮动元素最后 用于和后面的元素隔断  */
