@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.clears{
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+	overflow: hidden;
+}
+
+ol,ul,li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+img{
+	border: none;
+}
+
+input, button, select, textarea{
+	vertical-align: middle;
+	outline: none;
+}
+
+div{
+	display: block;
+}
